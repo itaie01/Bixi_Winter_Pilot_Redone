@@ -3,6 +3,10 @@ This is a personal project undertaken to reimagine the stations picked out by BI
 
 This project is ongoing as more consideration into winter conditions and the time it takes to clear certain neighborhoods of snow needs to be better addressed.
 
+## Facts
+- the Winter season officially started on November 16, 2023 until mid-March 2024
+- Current data is only available until Feburary 29, 2024. This is what we will be working with.
+
 ## To Do
 - [ ] Add more stations to the network
 - [ ] Rectify the issue of stations being too close to each other

@@ -1,0 +1,675 @@
+STARTSTATIONNAME,count
+des Pins / St-Laurent,9491
+du Mont-Royal / Clark,8020
+Métro Mont-Royal (Utilités publiques / Rivard),6067
+Cartier / Marie-Anne,5893
+Laurier / St-Denis,5846
+de Maisonneuve / Mackay,5371
+McTavish / Sherbrooke,5238
+St-Urbain / Laurier,4784
+Métro Sherbrooke (de Rigaud / Berri),4756
+Émile-Duployé / Sherbrooke,4647
+des Érables / Rachel,4646
+Roy / St-André,4543
+Berri / Rachel,4478
+Jeanne-Mance / Sherbrooke,4463
+de l'Hôtel-de-Ville / Rachel,4410
+du Mont-Royal / de Brébeuf,4410
+Dorion / Ontario,4124
+St-Viateur / Casgrain,3892
+Métro Peel (de Maisonneuve / Stanley),3695
+Marmier / St-Denis,3590
+Milton / St-Laurent,3430
+Ste-Catherine / Towers,3399
+Clark / de l'Arcade,3335
+Parc Jeanne-Mance (du Mont-Royal / du Parc),3318
+Métro Atwater (Atwater / Ste-Catherine),3266
+Masson / Molson,3250
+Parc Jeanne-Mance (monument sir George-Étienne-Cartier),3219
+Métro Papineau (Dorion / De Maisonneuve),3099
+St-Hubert / de Maisonneuve (sud),3060
+Messier / St-Joseph,2993
+Marché Jean-Talon (Casgrain / Shamrock),2949
+St-Grégoire / Christophe-Colomb,2904
+St-Denis / de Maisonneuve,2891
+Ste-Catherine / Bishop,2807
+St-Hubert / du Mont-Royal,2775
+du Parc-Lafontaine / Rachel,2724
+de Bleury / de Maisonneuve,2676
+Lajeunesse / Villeray,2528
+Calixa-Lavallée / Rachel,2514
+Ste-Catherine / Union,2501
+Clark / Ontario,2448
+Métro Laurier (Berri / St-Joseph),2444
+Métro St-Laurent ( de Maisonneuve / St-Laurent),2418
+Richmond / des Bassins,2404
+de Maisonneuve / Aylmer (ouest),2348
+Aylwin / Ontario,2331
+Gare d'autocars de Montréal (Berri / Ontario),2323
+Garnier / Beaubien,2308
+Parc Molson (d'Iberville / Beaubien),2270
+Smith / Peel,2252
+des Carrières / Marquette,2192
+Rachel / de Brébeuf,2172
+Peel / Notre-Dame,2050
+Métro Frontenac (Ontario / du Havre),2003
+de Maisonneuve / Fullum,1897
+de Bellechasse / de Lanaudière,1875
+Molson / Wiliam-Tremblay,1849
+15e avenue / Laurier,1840
+Milton / University,1830
+St-Jacques / McGill,1790
+Complexe Desjardins (St-Urbain / René-Lévesque),1760
+Place Valois (Valois / Ontario),1737
+Place du Canada (Peel / des Canadiens-de-Montréal),1717
+Métro Joliette  (Hochelaga / Joliette),1715
+Métro Pie-IX (Pierre-de-Coubertin / Desjardins),1685
+CÉGEP du Vieux-Montréal (Ontario / de l'Hôtel-de-Ville),1665
+Stanley / René-Lévesque,1652
+de la Montagne / Notre-Dame,1640
+de la Commune / King,1609
+Place d'Youville / McGill,1589
+de Maisonneuve / Aylmer (est),1559
+St-Dominique / Napoléon,1547
+de Maisonneuve / Mansfield (sud),1512
+du Havre / Hochelaga,1491
+des Bassins / du Séminaire,1475
+Omer-Lavallée / du Midway,1474
+Square Viger (Berri / Viger),1462
+de la Commune / St-Sulpice,1462
+Marché Maisonneuve,1457
+de Maisonneuve / Mansfield (sud-est),1453
+René-Lévesque / Papineau,1447
+Square Victoria (Viger / du Square-Victoria),1428
+Clark / Rachel,1425
+Robert-Bourassa / René-Lévesque,1399
+Villeray / de Normanville,1396
+Jeanne-Mance / René-Lévesque,1392
+Lanaudière / Jean-Talon,1382
+Cathcart / McGill College,1369
+BAnQ (Berri),1345
+Bennett / Ste-Catherine,1331
+Gary-Carter / St-Laurent,1319
+Prince-Arthur / du Parc,1306
+Marché Atwater,1273
+de Lanaudière / du Mont-Royal,1270
+Boyer / du Mont-Royal,1238
+Métro Crémazie (Crémazie / Lajeunesse),1238
+Clark / Prince-Arthur,1231
+Ste-Catherine / Drummond,1204
+Métro Parc  (Hutchison / Ogilvy),1185
+St-Dominique / Rachel,1168
+Métro Viau ( Pierre-de-Coubertin / Viau),1166
+Berri / Cherrier,1153
+Sherbrooke / Jeanne-d'Arc,1138
+Mont-Royal / St-Denis,1133
+Métro Lionel-Groulx (St-Jacques / Atwater),1111
+Notre-Dame  / St-Martin,1109
+Ottawa / du Séminaire,1103
+Chabot / Mont-Royal,1084
+Prince-Arthur / St-Urbain,1072
+La Tour de Montréal (Pierre-de-Coubertin / Bennett),1049
+de Maisonneuve / Mansfield (nord),1042
+Métro Place-d'Armes (Viger / St-Urbain),1041
+St-Hubert / de Maisonneuve (nord),1029
+Métro Champ-de-Mars (Viger / Sanguinet),1028
+Roy / St-Denis,1012
+St-Antoine / Jean-Paul Riopelle,965
+de la Commune / Place Jacques-Cartier,944
+University / Prince-Arthur,943
+Square St-Louis (du Square St-Louis / Laval),940
+Jeanne-Mance / Laurier,938
+William / Robert-Bourassa,928
+Ste-Catherine / St-Clément,917
+Collège de Rosemont (Beaubien / 15e avenue),915
+Pierre-de-Coubertin / Aird,911
+Métro Georges-Vanier (St-Antoine / Canning),910
+Gauthier / Papineau,907
+CHSLD Robert Cliche (de Bellechasse / 16e avenue),897
+René-Lévesque / Panet,895
+Laurier / de Brébeuf,880
+Parc Villeray (Christophe-Colomb / Jarry),876
+Ottawa / William,876
+de la Commune / Berri,869
+St-Dominique / Laurier,863
+St-Antoine / de la Montagne,850
+Métro Beaubien (de Chateaubriand / Beaubien),827
+du Square Dorchester / Peel,824
+Atwater / Sherbrooke,823
+Duluth / de l'Esplanade,815
+Clark / St-Viateur,811
+Aylmer / Sherbrooke,803
+Ste-Émilie / Sir-Georges-Etienne-Cartier,801
+des Pins / Hutchison,800
+Gilford / St-Denis,789
+Robert-Bourassa / St-Maurice,789
+Fabrik8 (Waverly / Jean-Talon),787
+Guy / Sainte-Catherine,776
+Jeanne-Mance / Fairmount,771
+Marie-Anne / Papineau,765
+St-André / Ste-Catherine,758
+Ontario / Ville-Marie,756
+Parthenais / du Mont-Royal,754
+Duke / Nazareth,754
+de Gaspé / Marmier,747
+Métro Sauvé (Berri / Sauvé),742
+Métro Lucien-L'Allier  (Lucien l'Allier / Argyle),737
+Milton / Durocher,728
+Marquette / du Mont-Royal,722
+Duluth  / St-Denis,718
+Milton / du Parc,716
+Boyer / Beaubien,702
+5e avenue / Masson,702
+Marquette / Laurier,697
+Notre-Dame / St-Gabriel,695
+Jacques-Casault / Christophe-Colomb,688
+Messier / du Mont-Royal,678
+Métro Acadie (de l'Acadie / Beaumont),674
+Frontenac / Ste-Catherine,662
+Ball / Bloomfield,660
+Jean-Talon / de l'Épée,659
+Crescent / de Maisonneuve,652
+Villeneuve / St-Laurent,652
+de la Côte St-Paul / St-Ambroise,643
+Mackay / de Maisonneuve,642
+Montcalm / Ontario,630
+6e Avenue / Bélanger,626
+Drolet / Marie-Anne,624
+St-Dominique / du Mont-Royal,621
+Porte de Québec / St-André,616
+Parc St-Henri (Laporte / Guay),615
+Métro Jarry (Lajeunesse / Jarry),615
+de l'Hôtel-de-Ville / Roy,613
+Chabanel / du Parc,612
+Laurier / de Bordeaux,605
+Parc Baldwin (Fullum / Sherbrooke),602
+Georges-Vanier / Notre-Dame,602
+Parc Nicolas-Tillemont (des Érables / Villeray),601
+Ste-Catherine / St-Laurent,601
+Métro Laurier (Berri / Laurier),599
+Coloniale / Duluth,597
+Ste-Catherine / St-Mathieu,597
+Atateken / du Square Amherst,594
+de l'Esplanade / du Mont-Royal,591
+St-Dominique / St-Zotique,584
+Préfontaine / Marcel-Pépin,557
+de Mentana / Marie-Anne,551
+Marie-Anne / St-Hubert,544
+Boyer / Rosemont,539
+Métro St-Michel (Shaughnessy / St-Michel),533
+Métro Rosemont (de St-Vallier / Rosemont),527
+Workman / Vinet,522
+Dézéry / Ontario,521
+Cartier / Masson,512
+Bishop / René-Lévesque,508
+Bernard / Jeanne-Mance,506
+Parc de Bullion (de Bullion / Prince-Arthur),503
+Villeneuve / St-Urbain,503
+Villeneuve / du Parc,502
+Beaudry / Sherbrooke,500
+Peel / Ottawa,496
+Métro Beaudry (Beaudry / Ste-Catherine),485
+Boyer / St-Zotique,477
+Hutchison / Prince-Arthur,471
+Marquette / Gillford,469
+Jeanne-Mance / St-Viateur,468
+Atwater / Greene,462
+Hamel / Sauriol,457
+Drummond / Sherbrooke,453
+Parc Père-Marquette (Chambord / Rosemont),452
+St-Denis / Ste-Catherine,450
+de Bellechasse / de St-Vallier,449
+St-Rémi / Ste-Émilie,449
+Métro Préfontaine (Moreau / Hochelaga),448
+Boyer / Jean-Talon,445
+Cité des Arts du Cirque (Paul Boutet / des Regrattiers),441
+St-Hubert / Duluth,439
+Clark / Laurier,435
+St-André / Ontario,434
+Tolhurst / Fleury,430
+de Gaspé / Beaubien,424
+Chomedey / de Maisonneuve,423
+Parc Henri-Julien (Legendre/Henri-Julien),422
+Calixa-Lavallée / Sherbrooke,421
+Bibliothèque d'Ahuntsic (Lajeunesse / Fleury),414
+Complexe sportif Claude-Robillard (Émile-Journault),414
+Garnier / St-Grégoire,411
+Fullum / Terrasse Mercure,410
+du Parc-La Fontaine / Duluth,409
+Casgrain / Maguire,408
+de Bordeaux / Gilford,405
+Viger / Chenneville,399
+Vallières / St-Laurent,396
+Marquette / Rachel,395
+Alexandre-DeSève  / Ontario,395
+Mansfield / Ste-Catherine,394
+Fullum / Marie-Anne,393
+de Gaspé / St-Viateur,392
+de l'Hôtel-de-Ville / Villeneuve,390
+de Lanaudière / Laurier,389
+Métro Place-des-Arts (du Président-Kennedy / Jeanne-Mance),386
+St-Dominique / de Bellechasse,384
+Laval / du Mont-Royal,383
+Sewell / Roy,381
+St-Alexandre / Ste-Catherine,377
+Pontiac / Gilford,373
+Métro Jean-Talon (Berri / Jean-Talon),370
+Marie-Anne / de la Roche,369
+Ste-Catherine / Sanguinet,367
+de Bordeaux / Sherbrooke,366
+de Bullion / St-Joseph,358
+Marché Jean-Talon (Henri-Julien / Jean-Talon),352
+Mackay / Ste-Catherine,350
+Boucher / St-Denis,349
+Métro Henri-Bourassa (Henri-Bourassa / Millen),348
+Place des Festivals ( du Président-Kennedy / de Bleury),346
+Henri-Julien / Laurier,344
+Parc du Pélican (1ere Ave / Masson),341
+de Brébeuf / du Mont-Royal,338
+du President-Kennedy / Union,338
+Maguire / St-Laurent,334
+Boyer / Bélanger,329
+Fullum / de Rouen,328
+Union / Ste-Catherine,326
+Hutchison / Beaubien,326
+Montcalm / de Maisonneuve,325
+Dorion / Rachel,323
+Chabot / Beaubien,320
+St-Laurent / Pl. du Marché,315
+8e avenue / Dandurand,312
+du Mont-Royal / Augustin-Frigon,310
+Cartier / St-Joseph,310
+St-Zotique / Clark,309
+Chabot / de Bellechasse,309
+Drolet / St-Zotique,300
+de la Roche /  de Bellechasse,299
+Desjardins / Ontario,297
+de l'Hôtel-de-Ville / Sherbrooke,297
+Bélanger / St-Denis,292
+St-Jacques / Vinet,291
+Gilford / de Brébeuf,291
+de Bordeaux / Masson,290
+de la Porte de Québec / St-André,289
+Louis-Hébert / de Bellechasse,288
+Maguire / Henri-Julien,288
+St-Jacques / Guy,281
+Jeanne-d'Arc / Ontario,281
+Durocher / Sherbrooke,280
+Gauthier / Parthenais,277
+de l'Hôtel-de-Ville / Ste-Catherine,277
+Métro Place Saint-Henri (St-Ferdinand / St-Jacques),276
+Durocher / Beaumont,275
+Sanguinet / de Maisonneuve,275
+Chabanel / Tolhurst,274
+Boyer /Laurier,273
+Mozart / St-Laurent,272
+de Chambly / Rachel,267
+Gauthier / de Lorimier,267
+Fullum / Gilford,267
+André-Laurendeau / Rachel,266
+St-Mathieu / Sherbrooke,265
+du Parc-La Fontaine / Roy,262
+St-Dominique / Bernard,261
+Notre-Dame / McGill,260
+Waverly / St-Viateur,258
+Ontario / Sicard,258
+Bercy / Rachel,257
+Aylmer / Ste-Catherine,256
+Metcalfe / de Maisonneuve,256
+de Chambly / de Rouen,256
+Métro Bonaventure (de la Gauchetière / de la Cathédrale),253
+Métro Lucien-L'Allier (Lucien l'Allier / Argyle),253
+Christophe-Colomb / St-Joseph,252
+Métro de Castelnau (de Castelnau / St-Laurent),251
+City Councillors / du President-Kennedy,251
+de la Montagne / Ste-Catherine,251
+de Lanaudière / Marie-Anne,237
+Notre-Dame / Guy,237
+Dorchester / Peel,237
+Drolet / Beaubien,236
+St-André / Rachel,235
+Bibliothèque et Complexe aquatique Rosemont (8e avenue / Rosemont),235
+de Bullion / du Mont-Royal,234
+Ste-Famille / des Pins,234
+Fullum / Ontario,233
+des Érables / Dandurand,233
+1ère avenue / Rosemont,233
+des Érables / Laurier,233
+Queen / Wellington,230
+Cartier / Bélanger,228
+Papineau / Émile-Journault,226
+St-Hubert / Laurier,225
+St-Mathieu / René-Levesque,223
+Cartier / Dandurand,222
+Murray / Wellington,221
+Ste-Catherine / Dezery,217
+de la Gauchetière / Robert-Bourassa,217
+Jeanne-Mance / Beaubien,216
+de Léry / Sherbrooke,214
+Larivière / de Lorimier,207
+Louis-Hémon / Rosemont,207
+des Écores / Beaubien,206
+William / St-Henri,203
+St-Dominique / St-Viateur,202
+de la Montagne / Sherbrooke,202
+6e avenue / Villeray,200
+Parc Hector-Toe-Blake ( Sussex / René-Levesque ),199
+3e avenue / Holt,196
+la Fontaine / Alexandre-de-Sève,196
+Beaubien / Clark,196
+Garnier / St-Joseph,195
+Labadie / du Parc,194
+Alexandre-DeSève / Ste-Catherine,192
+16e avenue / St-Joseph,189
+Mozart / Waverly,187
+McGill / Wellington,186
+de la Roche / Bélanger,186
+de St-Vallier / St-Zotique,185
+St-Nicolas / Place d'Youville,184
+St-Hubert / René-Levesque,182
+St-Jacques / des Seigneurs,178
+19e avenue / St-Zotique,178
+Molson / Beaubien,177
+Fabre / St-Zotique,176
+Chambord / Beaubien,176
+St-Urbain / de la Gauchetière,175
+CHSLD St-Michel (8e avenue / Jarry),175
+Nicolet / Sherbrooke,175
+Chapleau / du Mont-Royal,175
+Union / René-Lévesque,175
+Hélène-Baillargeon / St-Denis,174
+Ernest-Gendreau / du Mont-Royal,172
+Duvernay / Charlevoix,169
+Logan / de Champlain,169
+des Récollets / McGill,167
+de Gaspé / Fairmount,166
+Beaubien / 8e avenue,165
+Henri-Julien / du Carmel,164
+Louis-Hébert / Bélanger,159
+de Rouen / Lespérance,159
+Parc du Pélican (2e avenue / St-Joseph),158
+Valois / Ste-Catherine,155
+Ann / Wellington,152
+Parc Lalancette (de Rouen / Valois),151
+de l'Hotel-de-Ville / Ontario,150
+Henri-Julien / de Castelnau,149
+St-Marc / Sherbrooke,148
+St-Dominique / Jean-Talon,146
+Leman / de Chateaubriand,143
+7e avenue / St-Joseph Rosemont,142
+Wolfe / Robin,140
+de Lanaudière / Bélanger,139
+Parc Ludger-Duvernay (St-André / St-Hubert),139
+de Bordeaux / St-Zotique,139
+Parc Henri-Julien (Legendre / Henri-Julien),136
+1ère  avenue / St-Zotique,135
+Metcalfe / du Square-Dorchester,135
+Lucien L'Allier / St-Jacques,130
+St-Ambroise / Louis-Cyr,125
+Canning / Notre-Dame,125
+Poupart / Ontario,124
+Léa-Roback / Sir-Georges-Etienne-Cartier,122
+Gilford / des Érables,121
+Lincoln / du Fort,121
+5e avenue / Rosemont,120
+du Rosaire / St-Hubert,118
+Henri-Julien / de Bellechasse,117
+Garnier / Villeray,116
+12e avenue / St-Zotique,115
+de Castelnau / Lajeunesse,115
+Letourneux / Ste-Catherine,114
+Panet / Ste-Catherine,112
+de Rouen / Hogan,112
+Plessis / Logan,110
+Waverly / Van Horne,110
+Sherbrooke / Frontenac,109
+Darling / Sherbrooke,109
+Louis-Hémon / Jean-Talon,109
+St-Antoine / St-François-Xavier,109
+Letourneux / Hochelaga,108
+St-Jacques / St-Laurent,108
+du Champ-de-Mars / Gosford,107
+Turgeon / Notre-Dame,107
+Poupart / Logan,104
+Boyer / Everett,104
+de Gaspé / Villeray,104
+Métro Fabre (Fabre / Jean-Talon),102
+de Gaspé / Dante,99
+Drolet / Gounod,98
+Guizot / St-Laurent,97
+Bourget / St-Jacques,91
+Boyer / St-Joseph,89
+Lajeunesse / de Liège,89
+Louis-Hébert / St-Zotique,88
+du Havre / de Rouen,85
+Clark / de Liège,83
+St-Timothée / Robin,83
+Chambord / St-Joseph,82
+Rousselot / Jarry,82
+Hogan / Ontario,79
+Drolet / Jarry,78
+CHSLD Joseph-François-Perrault (St-Michel / Everett),78
+de la Roche / Everett,77
+Wiseman / D’Ogilvy,77
+des Érables / Bélanger,76
+Jean Langlois / Fullum,75
+d'Orléans / Hochelaga,74
+Guizot / St-Denis,73
+de Chateaubriand / Jarry,73
+Basile-Routhier / Chabanel,72
+de Bordeaux / Jean-Talon,72
+Chabot / Villeray,72
+Parc Joseph-Robin (18e avenue / Everett),66
+de Gaspé / Jarry,66
+Rose-de-Lima / Workman,62
+St-Germain / Hochelaga,56
+Lionel-Groulx / George-Vanier,54
+de Gaspé / de Liège,50
+St-Cyril / Wiseman,49
+St-Jacques / Richmond,48
+d'Orléans / Masson,45
+Bel Air / St-Antoine,43
+St-Dominique / Gounod,43
+Everett / Garnier,40
+Parc J.-Arthur-Champagne (de Chambly / du Mont-Royal),36
+Marquette / Fleury,36
+Péloquin / Fleury,34
+Chambord / Fleury,33
+20e avenue / de Bellechasse,32
+Clark / Fleury,31
+Métro Université de Montréal (Édouard-Montpetit / Louis-Collin),26
+8e avenue / Everett,25
+HEC (Decelles / Jean-Brillant),24
+Francis / Fleury,23
+Métro Édouard-Montpetit (du Mont-Royal / Vincent-d'Indy),22
+Laval / Duluth,21
+Bloomfield / Bernard,21
+Bloomfied / Elmwood,19
+CHU Ste-Justine (de la Côte Ste-Catherine / Hudson),18
+Métro Côte-des-Neiges (Jean-Brillant / de la Côte-des-Neiges),18
+Dollard / Bernard,14
+Métro Charlevoix (Centre / Charlevoix),13
+Hickson / Wellington,12
+de Maisonneuve / Wood,12
+de Maisonneuve / Greene,12
+U. Concordia - Campus Loyola (Sherbrooke / West Broadway),12
+Hochelaga / de l'Assomption,12
+Querbes / Laurier,11
+Métro Vendôme (de Marlowe / de Maisonneuve),11
+Parc Olympique (Pie-IX / Sherbrooke),10
+Métro Villa-Maria (de Monkland / Décarie),10
+Bloomfield / Van Horne,9
+Grey / Sherbrooke,9
+Victoria / de Maisonneuve,9
+Melville / de Maisonneuve,9
+Métro de l'Église (Ross / de l'Église),9
+Métro Jolicoeur (de Sève / Drake),8
+Parc Beaubien Outremont (Stuart / St-Viateur),8
+Durocher / Bernard,8
+Métro Plamondon (de Kent / Victoria),8
+Victoria Hall,8
+Richardson / Montmorency,7
+St-Charles / Thomas-Keefer,7
+McKenna / Édouard-Montpetit,7
+de Monkland / Girouard,7
+de Melrose / Sherbrooke,7
+Métro Monk (Allard / Beaulieu),7
+de Kent / de la Côte-des-Neiges,7
+Métro Lasalle (de Rushbrooke / Caisse),7
+Fairmount / Hutchison,7
+Wilderton  / Van Horne,7
+Parc Kent (de Kent / Hudson),7
+de la Côte St-Antoine / Argyle,6
+Pratt / Bates,6
+de Laprairie / Centre,6
+du Marché Central / Crémazie,6
+Harvard / de Monkland,6
+Parc Howard (de l'Épée / de Liège),6
+Cartier / Rosemont,5
+Place Rodolphe-Rousseau (Gohier / Édouard-Laurin),5
+Campus MIL (Outremont / Thérèse-Lavoie Roux),5
+Place du Commerce,5
+4e avenue / de Verdun,5
+Rielle / Wellington,5
+McCulloch / de la Côte Ste-Catherine,5
+Parc Labelle (LaSalle / Henri-Duhamel),5
+de Hampton / de Monkland,5
+Grand Boulevard / Sherbrooke,5
+Hutchison / Van Horne,5
+de l'Église / Bannantyne,5
+Stinson / Montpellier,5
+Monk / de Biencourt,5
+Dollard / Van Horne,5
+de la Côte-Ste-Catherine / Decelles,5
+Augustin-Cantin / Shearer,4
+Bassin olympique (Chemin du Chenal le Moyne),4
+Hôpital Général Juif (de la Côte-Ste-Catherine / Légaré),4
+Argyle / de Verdun,4
+Métro Assomption (Chauveau / de l'Assomption),4
+Bélanger / des Galeries d'Anjou,4
+Hillside / Ste-Catherine,4
+Ropery / Augustin-Cantin,4
+3e avenue / Wellington,4
+de la Côte St-Antoine / Royal,4
+Métro Longueuil - Université de Sherbrooke,4
+Regina / de Verdun,4
+Marcil / Sherbrooke,4
+Beatty / de Verdun,4
+27e avenue / Rosemont,4
+Shearer / Centre,4
+Métro Côte-Ste-Catherine (Beaucourt / de la Côte-Ste-Catherine),3
+LaSalle / 90e avenue,3
+Parc Maisonneuve (Viau / Sherbrooke),3
+LaSalle / Godin,3
+Argyle / Bannantyne,3
+du Canal / McLaughlin,3
+Michelet / Jean-Talon,3
+Rosemont / Viau,3
+Métro de la Savane (Décarie / de Sorel),3
+CCI Outremont (Dollard / Ducharme),3
+Bourgeoys / Favard,3
+Davaar / de la Côte-Ste-Catherine,3
+McLynn / Plamondon,3
+Jogues / Allard,3
+Centre ÉPIC (St-Zotique / 40e avenue),3
+Parc de la Confédération (Fielding / West Hill),3
+Parc Hébert (Colbert / Provencher),3
+Parc Van Horne (de la Peltrie / de Westbury),3
+Parc Georges St-Pierre (Oxford / Upper Lachine),3
+Métro Langelier (Langelier / Sherbrooke),3
+Northcliffe / Notre-Dame-de-Grâce,3
+Parc St-Paul (Le Caron / Marc-Sauvalle),3
+Graham / Kindersley,3
+Bibliothèque du Vieux-St-Laurent (de l'Église / Filiatrault),2
+Newman / Senkus,2
+Carrefour Angrignon (Angrignon / Newman),2
+Egan / Laurendeau,2
+Parc Pratt (Dunlop / Van Horne),2
+Plymouth / Chem.Eden,2
+Parc Kirkland (des Érables / Boyer),2
+Métro de la Concorde (Léo-Lacombe),2
+Paré / Mountain Sights,2
+Champdoré / de Lorimier,2
+Brittany / Ainsley,2
+Duchesneau / de Marseille,2
+Métro Angrignon (Lamont / des Trinitaires),2
+Lacombe / Victoria,2
+Park Row O / Sherbrooke,2
+Louisbourg / O'Brien,2
+Hôpital Santa Cabrini (de Pontoise / d'Évreux),2
+Ryde / Charlevoix,2
+Parc des Rapides (LaSalle / 6e avenue),2
+Benny / Sherbrooke,2
+Keller / Cousineau,2
+Grand Boulevard / de Terrebonne,2
+Jacques-Le Ber / de la Pointe Nord,2
+de Grosbois / Duchesneau,2
+Square Nelligan (des Appalaches / Alexis-Nihon),2
+Hôpital Maisonneuve-Rosemont (Rosemont / Chatelain),2
+de Soissons / de Darlington,2
+Graham / Wicksteed,2
+Parc St-Laurent (Dutrisac),2
+Bibliothèque Jean-Corbeil (Goncourt / Place Montrichard),2
+41e avenue / Rosemont,2
+de Lisieux / Jean-Talon,2
+Thimens / Alexis-Nihon,2
+Parc Laurier (Laurier / Dubuc),2
+Casino de Montréal,2
+Dubois / Eadie,2
+Pierre-Péladeau / du Centropolis,2
+Métro Verdun (Willibrord / de Verdun),2
+Elgar / de l'Île-des-Sœurs,2
+Du Quesne / de Marseille,2
+Parc Courbertin (Valéry / Perrier),2
+Fortune / Wellington,1
+Travaux publics LaSalle (Cordner / Léger),1
+Legrand / Cartier,1
+Parc nature de l'Île-de-la-Visitation (Gouin / de Bruchési),1
+de Côme / Jean-Talon,1
+Beurling / Godin,1
+Parc Wilfrid-Bastien (Lacordaire / des Galets),1
+Parc Ottawa (de Belleville / Fleury),1
+Métro Radisson (Sherbrooke / des Groseilliers),1
+29e avenue / St-Zotique,1
+Parc de Beauséjour (Gouin / Henri-d'Arles),1
+Aréna Rodrigue-Gilbert (du Tricentenaire / de Montigny),1
+Le Corbusier / St-Martin O,1
+Cégep André-Laurendeau (Lapierre),1
+Irwin / Allard,1
+Ste-Claire / Pierre-Tétreault,1
+Parc de Dieppe,1
+Alfred Laliberté / de Poutrincourt,1
+Natatorium (LaSalle / Rolland),1
+de St-Firmin / Fleury,1
+Notre-Dame-de-Grâce / Westmount,1
+Parc Garibaldi (Liénart / Bélanger),1
+Place du Village (St-Jean-Baptiste / Notre-Dame),1
+Parc Honoré-Mercier (Notre-Dame / Liébert),1
+Parc de la Louisiane (31e avenue / de Bellechasse),1
+Parc MacDonald (Clanranald / Isabella),1
+Hamilton / Jolicoeur,1
+Parc Chenier (de l'Aréna / Chenier),1
+Métro Cadillac (Cadillac / Sherbrooke),1
+Parc Benny (Benny / de Monkland),1
+Parc des Hirondelles (Fleury / André-Jobin),1
+des Jockeys / Décarie,1
+de Châteauguay / St-Charles,1
+Parc Champdoré (Champdoré / de Lille),1
+Grenet / Poirier,1
+7e avenue / Jean-Rivard,1
+O'Brien / Poirier,1
+des Ormeaux / de Grosbois,1
+du Parc / François-Foucault,1
+5e avenue / Bannantyne,1
+Parc Joyce (Rockland / Lajoie),1
+Laird / Glencoe,1
+Langelier / Marie-Victorin,1
+Parc d'Antioche (Place d'Antioche / St-Zotique),1
+26e avenue / Beaubien,1
+Parc Ferland (Belleherbe / Albanel),1
+Gloria / Dollard,1
+Parc St-Louis (St-Joseph / 34e avenue),1
+35e avenue / Beaubien,1
+LaSalle / Crawford,1
+Robin / 15e rue,1
+Kirkfield / de Chambois,1

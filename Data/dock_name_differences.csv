@@ -1,0 +1,531 @@
+,0,1
+0,University , Prince-Arthur
+1,Boyer ,Laurier
+2,Robert-Bourassa , St-Maurice
+3,Graham , Wicksteed
+4,Pontiac , Gilford
+5,St-Dominique , Rachel
+6,Clark , Laurier
+7,Molson , Wiliam-Tremblay
+8,de Gaspé , Fairmount
+9,Guizot , St-Denis
+10,Drummond , Sherbrooke
+11,Milton , University
+12,Ste-Catherine , Drummond
+13,Berri,Jean-Talon
+14,Place du Commerce,
+15,Dollard , Bernard
+16,Hutchison , Prince-Arthur
+17,Jeanne-Mance , Laurier
+18,Coloniale , Duluth
+19,Édouard-Montpetit,Louis-Collin
+20,Masson , Molson
+21,Duluth  , St-Denis
+22,Garnier , St-Joseph
+23,Bélanger , St-Denis
+24,Dorion , Rachel
+25,Gauthier , Papineau
+26,de la Montagne , Ste-Catherine
+27,de Monkland , Girouard
+28,Atateken , du Square Amherst
+29,de Bordeaux , Masson
+30,St-Rémi , Ste-Émilie
+31,Crescent , de Maisonneuve
+32,St-Dominique , St-Zotique
+33,Lajeunesse,Jarry
+34,des Pins , Hutchison
+35,d'Orléans , Hochelaga
+36,Viger,du Square-Victoria
+37,Augustin-Cantin , Shearer
+38,Viau,Sherbrooke
+39,Waverly , St-Viateur
+40,20e avenue , de Bellechasse
+41,des Appalaches,Alexis-Nihon
+42,Beaudry , Sherbrooke
+43,de Lanaudière , Laurier
+44,Mansfield , Ste-Catherine
+45,Prince-Arthur , du Parc
+46,du Square St-Louis,Laval
+47,Alexandre-DeSève , Ste-Catherine
+48,City Councillors , du President-Kennedy
+49,du Marché Central , Crémazie
+50,André-Laurendeau , Rachel
+51,Ross,de l'Église
+52,Laurier , de Brébeuf
+53,St-Dominique , Napoléon
+54,Roy , St-Denis
+55,Marquette , du Mont-Royal
+56,St-Dominique , Bernard
+57,Metcalfe , de Maisonneuve
+58,du Parc-La Fontaine , Roy
+59,Gohier,Édouard-Laurin
+60,Sussex,René-Levesque
+61,Victoria Hall,
+62,de l'Esplanade , du Mont-Royal
+63,Hamilton , Jolicoeur
+64,Prince-Arthur , St-Urbain
+65,Boyer , Everett
+66,St-Ferdinand,St-Jacques
+67,de Gaspé , Villeray
+68,Laval , Duluth
+69,de Lanaudière , Bélanger
+70,Milton , du Parc
+71,Boyer , Beaubien
+72,Louis-Hémon , Jean-Talon
+73,Boucher , St-Denis
+74,de Lanaudière , du Mont-Royal
+75,de Bleury , de Maisonneuve
+76,Northcliffe , Notre-Dame-de-Grâce
+77,Fullum , Marie-Anne
+78,Chapleau , du Mont-Royal
+79,Parthenais , du Mont-Royal
+80,Belleherbe,Albanel
+81,Marie-Anne , de la Roche
+82,Canning , Notre-Dame
+83,Boyer , du Mont-Royal
+84,des Érables , Dandurand
+85,du Mont-Royal,Vincent-d'Indy
+86,Fairmount , Hutchison
+87,de Bordeaux , Sherbrooke
+88,St-Timothée , Robin
+89,St-Hubert , Duluth
+90,Drolet , Beaubien
+91,Benny , Sherbrooke
+92,Querbes , Laurier
+93,Boyer , St-Zotique
+94,Laval , du Mont-Royal
+95,de Bellechasse , de St-Vallier
+96,de Castelnau,St-Laurent
+97,Beaubien , Clark
+98,Molson , Beaubien
+99,McGill , Wellington
+100,Richardson , Montmorency
+101,Turgeon , Notre-Dame
+102,Wiseman , D’Ogilvy
+103,de Chateaubriand,Beaubien
+104,Louis-Hébert , St-Zotique
+105,St-Dominique , de Bellechasse
+106,Marquette , Rachel
+107,Plessis , Logan
+108,Henri-Julien , de Castelnau
+109,Garnier , St-Grégoire
+110,Jacques-Le Ber , de la Pointe Nord
+111,Jeanne-Mance , St-Viateur
+112,Peel , Ottawa
+113,Ste-Catherine , Sanguinet
+114,Aylmer , Sherbrooke
+115,de l'Hôtel-de-Ville , Sherbrooke
+116,Villeneuve , St-Laurent
+117,Lionel-Groulx , George-Vanier
+118,St-Alexandre , Ste-Catherine
+119,St-Marc , Sherbrooke
+120,Laurier , de Bordeaux
+121,Durocher , Beaumont
+122,Dollard , Van Horne
+123,Jeanne-Mance , Beaubien
+124,St-Hubert , Laurier
+125,Bernard , Jeanne-Mance
+126,de St-Vallier , St-Zotique
+127,Ste-Catherine , Union
+128,Christophe-Colomb , St-Joseph
+129,de la Roche ,  de Bellechasse
+130,de Gaspé , Jarry
+131,Logan , de Champlain
+132,de Rushbrooke,Caisse
+133,Messier , du Mont-Royal
+134,Casgrain , Maguire
+135,Marie-Anne , Papineau
+136,Le Caron,Marc-Sauvalle
+137,de Bordeaux , Gilford
+138,St-Laurent , Pl. du Marché
+139,Cartier , St-Joseph
+140,Gilford , St-Denis
+141,de Rouen , Hogan
+142,St-Nicolas , Place d'Youville
+143,Fielding,West Hill
+144,1ere Ave,Masson
+145,Chabot , Beaubien
+146,Bishop , René-Lévesque
+147,de Castelnau , Lajeunesse
+148,Alexandre-DeSève  , Ontario
+149,2e avenue,St-Joseph
+150,de Mentana , Marie-Anne
+151,Moreau,Hochelaga
+152,Decelles,Jean-Brillant
+153,de Bullion,Prince-Arthur
+154,de Bullion,Prince-Arthur
+155,Outremont,Thérèse-Lavoie Roux
+156,du Parc-La Fontaine , Duluth
+157,Victoria , de Maisonneuve
+158,du Président-Kennedy,Jeanne-Mance
+159,Pratt , Bates
+160,Duluth , de l'Esplanade
+161,de Gaspé , Beaubien
+162,St-Dominique , Laurier
+163,Everett , Garnier
+164,Fullum , Terrasse Mercure
+165,Cartier , Dandurand
+166,de la Gauchetière,de la Cathédrale
+167,Gilford , de Brébeuf
+168,Berri , Cherrier
+169,St-Denis , Ste-Catherine
+170,Sherbrooke , Frontenac
+171,Henri-Julien , Laurier
+172,de l'Hôtel-de-Ville , Roy
+173,St-Cyril , Wiseman
+174,de Kent,Victoria
+175,Calixa-Lavallée , Sherbrooke
+176,Villeneuve , St-Urbain
+177,St-Mathieu , René-Levesque
+178,Clark , Rachel
+179,Michelet , Jean-Talon
+180,Chabot , Mont-Royal
+181,Métro Longueuil - Université de Sherbrooke,
+182,Clark , Prince-Arthur
+183,St-Jacques , St-Laurent
+184,de Gaspé , Dante
+185,St-André , Rachel
+186,William , St-Henri
+187,Berri,Laurier
+188,Place d'Youville , McGill
+189,Casgrain,Shamrock
+190,Thimens , Alexis-Nihon
+191,5e avenue , Bannantyne
+192,de Gaspé , St-Viateur
+193,Panet , Ste-Catherine
+194,Boyer , Bélanger
+195,Cartier , Bélanger
+196,de St-Vallier,Rosemont
+197,Mont-Royal , St-Denis
+198,Clark , St-Viateur
+199,Sanguinet , de Maisonneuve
+200,Langelier , Marie-Victorin
+201,St-Mathieu , Sherbrooke
+202,Guy , Sainte-Catherine
+203,Rosemont , Viau
+204,LaSalle , Crawford
+205,Centre,Charlevoix
+206,Beaudry,Ste-Catherine
+207,de Marlowe,de Maisonneuve
+208,Notre-Dame , Guy
+209,Gouin,de Bruchési
+210,Montcalm , de Maisonneuve
+211,Waverly , Van Horne
+212,St-Zotique , Clark
+213,de l'Hotel-de-Ville , Ontario
+214,Ste-Catherine , Dezery
+215,Gauthier , de Lorimier
+216,Argyle , Bannantyne
+217,3e avenue , Holt
+218,St-André , Ontario
+219,Hutchison , Van Horne
+220,St-Dominique , Jean-Talon
+221,du Rosaire , St-Hubert
+222,Kirkfield , de Chambois
+223,Mozart , St-Laurent
+224,LaSalle,Henri-Duhamel
+225,Ste-Catherine , St-Laurent
+226,St-André , Ste-Catherine
+227,Montcalm , Ontario
+228,Fullum,Sherbrooke
+229,Parc St-Laurent,
+230,Cartier , Masson
+231,Villeneuve , du Parc
+232,Maguire , St-Laurent
+233,de la Roche , Everett
+234,Mackay , Ste-Catherine
+235,Léo-Lacombe,
+236,Drolet , Marie-Anne
+237,Labadie , du Parc
+238,Sherbrooke,West Broadway
+239,Grey , Sherbrooke
+240,Milton , Durocher
+241,Fullum , de Rouen
+242,Regina , de Verdun
+243,Aylmer , Ste-Catherine
+244,de Maisonneuve , Greene
+245,Notre-Dame  , St-Martin
+246,St-Dominique , St-Viateur
+247,Louis-Hébert , Bélanger
+248,Bloomfield , Bernard
+249,4e avenue , de Verdun
+250,des Érables , Laurier
+251,Poupart , Logan
+252,Pierre-de-Coubertin,Viau
+253,Marquette , Laurier
+254,Ste-Catherine , St-Mathieu
+255,Notre-Dame , McGill
+256,du Parc , François-Foucault
+257,Lincoln , du Fort
+258,des Écores , Beaubien
+259,Chauveau,de l'Assomption
+260,Jeanne-Mance , Fairmount
+261,Bloomfield , Van Horne
+262,Clark , de Liège
+263,de Rouen,Valois
+264,de Soissons , de Darlington
+265,Marquette , Fleury
+266,Léa-Roback , Sir-Georges-Etienne-Cartier
+267,Rose-de-Lima , Workman
+268,de Gaspé , de Liège
+269,Ottawa , du Séminaire
+270,Boyer , Jean-Talon
+271,Marquette , Gillford
+272,Desjardins , Ontario
+273,Dézéry , Ontario
+274,Vallières , St-Laurent
+275,Poupart , Ontario
+276,Jogues , Allard
+277,Sewell , Roy
+278,Notre-Dame,Liébert
+279,Guizot , St-Laurent
+280,Messier , St-Joseph
+281,St-Hubert , René-Levesque
+282,Ernest-Gendreau , du Mont-Royal
+283,Hutchison , Beaubien
+284,Marcil , Sherbrooke
+285,la Fontaine , Alexandre-de-Sève
+286,Jean-Brillant,de la Côte-des-Neiges
+287,Colbert,Provencher
+288,5e avenue , Rosemont
+289,Union , Ste-Catherine
+290,Bercy , Rachel
+291,Beaubien , 8e avenue
+292,de la Peltrie,de Westbury
+293,de Melrose , Sherbrooke
+294,de Lanaudière , Marie-Anne
+295,St-Dominique , Gounod
+296,3e avenue , Wellington
+297,Ste-Catherine , St-Clément
+298,Bélanger , des Galeries d'Anjou
+299,LaSalle , Godin
+300,de Monkland,Décarie
+301,Fabre,Jean-Talon
+302,Laurier,Dubuc
+303,Chambord , Fleury
+304,Wolfe , Robin
+305,de l'Hôtel-de-Ville , Villeneuve
+306,Drolet , Jarry
+307,Fullum , Gilford
+308,Benny,de Monkland
+309,Valois , Ste-Catherine
+310,Ste-Famille , des Pins
+311,du President-Kennedy , Union
+312,Hillside , Ste-Catherine
+313,de Kent , de la Côte-des-Neiges
+314,12e avenue , St-Zotique
+315,Chambord,Rosemont
+316,Beaucourt,de la Côte-Ste-Catherine
+317,Fabre , St-Zotique
+318,de l'Hôtel-de-Ville , Ste-Catherine
+319,Lucien L'Allier , St-Jacques
+320,Nicolet , Sherbrooke
+321,Murray , Wellington
+322,Drolet , St-Zotique
+323,de Sève,Drake
+324,de Bullion , St-Joseph
+325,Lajeunesse , de Liège
+326,de Rouen , Lespérance
+327,Allard,Beaulieu
+328,de Léry , Sherbrooke
+329,1ère  avenue , St-Zotique
+330,Cartier , Rosemont
+331,Marie-Anne , St-Hubert
+332,de Maisonneuve , Wood
+333,Maguire , Henri-Julien
+334,Angrignon,Newman
+335,Chambord , Beaubien
+336,du Président-Kennedy,de Bleury
+337,Gilford , des Érables
+338,Wilderton  , Van Horne
+339,Legrand , Cartier
+340,Jeanne-d'Arc , Ontario
+341,de Bullion , du Mont-Royal
+342,de Laprairie , Centre
+343,Chambord , St-Joseph
+344,St-Antoine , St-François-Xavier
+345,Queen , Wellington
+346,16e avenue , St-Joseph
+347,Hochelaga , de l'Assomption
+348,8e avenue , Dandurand
+349,Drolet , Gounod
+350,du Champ-de-Mars , Gosford
+351,Boyer , St-Joseph
+352,Melville , de Maisonneuve
+353,Boyer , Rosemont
+354,8e avenue,Rosemont
+355,Ann , Wellington
+356,Fortune , Wellington
+357,de la Côte St-Antoine , Argyle
+358,des Récollets , McGill
+359,Harvard , de Monkland
+360,St-Jacques , Guy
+361,Bourgeoys , Favard
+362,Durocher , Sherbrooke
+363,Ryde , Charlevoix
+364,27e avenue , Rosemont
+365,Brittany , Ainsley
+366,Newman , Senkus
+367,de Chambly , Rachel
+368,Henri-Julien , du Carmel
+369,Fullum , Ontario
+370,Dunlop,Van Horne
+371,18e avenue,Everett
+372,St-André,St-Hubert
+373,Rosemont,Chatelain
+374,Décarie,de Sorel
+375,Letourneux , Hochelaga
+376,Dorchester , Peel
+377,du Havre , de Rouen
+378,de la Montagne , Sherbrooke
+379,Langelier,Sherbrooke
+380,Liénart,Bélanger
+381,41e avenue , Rosemont
+382,de Chambly,du Mont-Royal
+383,Henri-Julien,Jean-Talon
+384,St-Viateur , Casgrain
+385,Beatty , de Verdun
+386,Darling , Sherbrooke
+387,19e avenue , St-Zotique
+388,de la Côte-Ste-Catherine , Decelles
+389,Hogan , Ontario
+390,Ropery , Augustin-Cantin
+391,des Jockeys , Décarie
+392,de Châteauguay , St-Charles
+393,Alfred Laliberté , de Poutrincourt
+394,des Ormeaux , de Grosbois
+395,Lacombe , Victoria
+396,Duchesneau , de Marseille
+397,Champdoré,de Lille
+398,de Hampton , de Monkland
+399,Stinson , Montpellier
+400,Chomedey , de Maisonneuve
+401,de l'Église , Bannantyne
+402,St-Dominique , du Mont-Royal
+403,de la Gauchetière , Robert-Bourassa
+404,Fleury,André-Jobin
+405,du Mont-Royal , Augustin-Frigon
+406,Hickson , Wellington
+407,Cadillac,Sherbrooke
+408,de la Côte-Ste-Catherine,Légaré
+409,Pierre-Péladeau , du Centropolis
+410,Monk , de Biencourt
+411,Paré , Mountain Sights
+412,Valéry,Perrier
+413,Grand Boulevard , Sherbrooke
+414,de Lisieux , Jean-Talon
+415,Plymouth , Chem.Eden
+416,LaSalle,6e avenue
+417,de Bordeaux , St-Zotique
+418,de St-Firmin , Fleury
+419,Louis-Hémon , Rosemont
+420,de Chateaubriand , Jarry
+421,Clanranald,Isabella
+422,Larivière , de Lorimier
+423,de Pontoise,d'Évreux
+424,Garnier , Villeray
+425,Shearer , Centre
+426,des Érables , Bélanger
+427,Chabot , Villeray
+428,de Bordeaux , Jean-Talon
+429,Graham , Kindersley
+430,de la Roche , Bélanger
+431,Durocher , Bernard
+432,Oxford,Upper Lachine
+433,de l'Église,Filiatrault
+434,Péloquin , Fleury
+435,31e avenue,de Bellechasse
+436,Gauthier , Parthenais
+437,McLynn , Plamondon
+438,1ère avenue , Rosemont
+439,Rousselot , Jarry
+440,St-Jean-Baptiste,Notre-Dame
+441,St-Zotique,40e avenue
+442,Dubois , Eadie
+443,6e Avenue , Bélanger
+444,Louis-Hébert , de Bellechasse
+445,Leman , de Chateaubriand
+446,Dollard,Ducharme
+447,5e avenue , Masson
+448,Willibrord,de Verdun
+449,Notre-Dame-de-Grâce , Westmount
+450,Grenet , Poirier
+451,Goncourt,Place Montrichard
+452,de Kent,Hudson
+453,de la Côte Ste-Catherine,Hudson
+454,Metcalfe , du Square-Dorchester
+455,Mozart , Waverly
+456,7e avenue , Jean-Rivard
+457,Argyle , de Verdun
+458,Duvernay , Charlevoix
+459,Union , René-Lévesque
+460,O'Brien , Poirier
+461,Davaar , de la Côte-Ste-Catherine
+462,St-Ambroise , Louis-Cyr
+463,Rielle , Wellington
+464,St-Urbain , de la Gauchetière
+465,Chabot , de Bellechasse
+466,de Grosbois , Duchesneau
+467,8e avenue , Everett
+468,Letourneux , Ste-Catherine
+469,Elgar , de l'Île-des-Sœurs
+470,Du Quesne , de Marseille
+471,Jean Langlois , Fullum
+472,Rockland,Lajoie
+473,Grand Boulevard , de Terrebonne
+474,des Érables,Boyer
+475,Hélène-Baillargeon , St-Denis
+476,Laird , Glencoe
+477,de la Côte St-Antoine , Royal
+478,des Carrières , Marquette
+479,Egan , Laurendeau
+480,Stuart,St-Viateur
+481,St-Charles , Thomas-Keefer
+482,Place d'Antioche,St-Zotique
+483,26e avenue , Beaubien
+484,Legendre,Henri-Julien
+485,Gloria , Dollard
+486,Pie-IX,Sherbrooke
+487,St-Joseph,34e avenue
+488,35e avenue , Beaubien
+489,Keller , Cousineau
+490,Clark , Fleury
+491,St-Germain , Hochelaga
+492,McKenna , Édouard-Montpetit
+493,Ontario , Sicard
+494,Robin , 15e rue
+495,Park Row O , Sherbrooke
+496,Louisbourg , O'Brien
+497,LaSalle , 90e avenue
+498,de l'Aréna,Chenier
+499,LaSalle,Rolland
+500,McCulloch , de la Côte Ste-Catherine
+501,de Belleville,Fleury
+502,Cordner,Léger
+503,Basile-Routhier , Chabanel
+504,Henri-Julien , de Bellechasse
+505,Lamont,des Trinitaires
+506,du Canal , McLaughlin
+507,de Côme , Jean-Talon
+508,29e avenue , St-Zotique
+509,Gouin,Henri-d'Arles
+510,du Tricentenaire,de Montigny
+511,d'Orléans , Masson
+512,Lapierre,
+513,Ste-Claire , Pierre-Tétreault
+514,7e avenue , St-Joseph Rosemont
+515,Casino de Montréal,
+516,Le Corbusier , St-Martin O
+517,Sherbrooke,des Groseilliers
+518,Bourget , St-Jacques
+519,Bel Air , St-Antoine
+520,Bloomfied , Elmwood
+521,Francis , Fleury
+522,Lacordaire,des Galets
+523,Champdoré , de Lorimier
+524,Irwin , Allard
+525,Chemin du Chenal le Moyne,
+526,Beurling , Godin
+527,Parc de Dieppe,
+528,de Maisonneuve , Mackay
+529,du Mont-Royal , de Brébeuf
